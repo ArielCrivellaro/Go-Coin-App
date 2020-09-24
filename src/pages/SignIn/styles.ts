@@ -12,3 +12,12 @@ export const Title = styled.Text`
     color: #f4ede8;
     margin: 24px 0 24px;
 `;
+
+export const CreateAccountButton = styled.TouchableOpacity`
+    margin-top: 20px;
+`;
+
+export const CreateAccountText = styled.Text`
+    color: #f4ede8;
+    font-size: 18px;
+`;
